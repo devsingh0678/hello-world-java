@@ -472,3 +472,23 @@
 2018-09-19 22:33:07,140 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
 2018-09-19 22:33:07,141 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-19 22:33:07,141 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
+2018-10-07 13:21:46,950 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:21:46,954 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
+2018-10-07 13:21:46,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:21:46,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
+2018-10-07 13:22:07,017 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:22:07,018 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
+2018-10-07 13:22:07,020 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:22:07,020 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
+2018-10-07 13:22:17,206 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:22:17,206 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
+2018-10-07 13:22:17,208 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:22:17,208 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
+2018-10-07 13:23:18,610 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:23:18,611 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
+2018-10-07 13:23:18,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:23:18,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
+2018-10-07 13:23:49,422 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:23:49,422 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/main/resources
+2018-10-07 13:23:49,423 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-07 13:23:49,423 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/devendrasingh/Desktop/docker/hello-world-java/docker-git-hello-world/src/test/resources
